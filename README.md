@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=doyun034&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Snake Animation](https://github.com/username/doyun034/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Animation](https://github.com/doyun034/doyun034/blob/output/github-contribution-grid-snake.svg)
