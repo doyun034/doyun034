@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 ![GitHub followers](https://img.shields.io/github/followers/doyun034?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/doyun034?style=social)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-doyun034-blue)
+![Blog](https://img.shields.io/badge/Blog-yourblog-red)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
