@@ -16,8 +16,14 @@ Here are some ideas to get you started:
 -->
 ![GitHub followers](https://img.shields.io/github/followers/doyun034?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/doyun034?style=social)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-DoyunJang-blue)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-yourusername-blue)
 ![Blog](https://img.shields.io/badge/Blog-yourblog-red)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyun034&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doyun034&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=doyun034&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=doyun034&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Snake Animation](https://github.com/doyun034/doyun034/blob/output/github-contribution-grid-snake.svg)
